@@ -10,3 +10,4 @@ Here we provide the final datasets and codes supporting the findings of this stu
    4. The code used to estimate NMIs
    5. The code for the GLMMs
    6. A folder containing the shapefiles used to define native ranges of each species
+   7. The file Data_CLUSTERS+HII+InvTime.csv contains additional information on Human Impact Index and Time since introduction. This information,           however, is not available for all clusters
