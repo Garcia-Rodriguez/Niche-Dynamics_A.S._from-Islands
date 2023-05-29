@@ -1,0 +1,119 @@
+"","cluster","X","class","species","mean_NMI","AltRange","Rough","Remot","RecInsul","DistNatAlien","PD","BodyMass","NatRangeSize","ED.Alien","mean.HII","Residence.time"
+"1","Aerodramus bartschi_United States",74,"Aves","Aerodramus bartschi",-13.6,472,94.13,2671674.79,"Continent",5927.565767,3342.926,7.4,896.3865672,NA,43.0454545454545,NA
+"2","Anolis aeneus_Guyana",90,"Reptilia","Anolis aeneus",-4.202,652,188.1,137951.88,"Island",535.4484189,4566.511,10.6,408.856282,0.002121652,22.8333333333333,1800
+"3","Anolis aeneus_Trinidad and Tobago",56,"Reptilia","Anolis aeneus",-6.327,652,188.1,137951.88,"Island",131.7168038,3207.212,10.6,408.856282,0.023603401,41.8620689655172,1800
+"4","Anolis allisoni_United States",85,"Reptilia","Anolis allisoni",0.643,1734,49.7,42960.1,"Continent",318.1582698,1896.005,20.4,94314.45077,0.032914592,39.7272727272727,NA
+"5","Anolis chlorocyanus_United States",7,"Reptilia","Anolis chlorocyanus",0.137,2192,250.29,659071.86,"Continent",1001.421934,2024.533,10.6,6732.481056,0.090209477,32.5263157894737,1978
+"6","Anolis cristatellus_Costa Rica",79,"Reptilia","Anolis cristatellus",-1.111,1223,132.88,704109.69,"Continent",1910.98968,4556.478,9.8,9265.658898,0.023502089,29.8,1971
+"7","Anolis cristatellus_Dominica",115,"Reptilia","Anolis cristatellus",0.421,1223,132.88,704109.69,"Island",176.0541742,1782.858,9.8,9265.658898,0.055674139,27.3333333333333,2000
+"8","Anolis cristatellus_Dominican Republic",20,"Reptilia","Anolis cristatellus",0.018,1223,132.88,704109.69,"Island",123.972708,2533.498,9.8,9265.658898,0.018458559,31.6666666666667,1916
+"9","Anolis cristatellus_United States",81,"Reptilia","Anolis cristatellus",0.016,1223,132.88,704109.69,"Continent",1557.281705,1955.644,9.8,9265.658898,0.08158863,50.8924731182796,1973
+"10","Anolis cybotes_United States",17,"Reptilia","Anolis cybotes",-0.087,2192,281.39,703351.92,"Island",987.9475902,2020.037,11,2044.361758,0.089950147,33.3333333333333,1966
+"11","Anolis garmani_United States",82,"Reptilia","Anolis garmani",0.181,2123,177.3,624722.03,"Continent",834.4385377,1957.093,52.6,9934.699411,0.092418787,55.6666666666667,1979
+"12","Anolis marmoratus_French Guiana",92,"Reptilia","Anolis marmoratus",-1.768,1328,138.19,578491.66,"Island",1398.761933,4471.5,12.6,1460.494114,0.025027631,33.5,1950
+"13","Anolis porcatus_Dominican Republic",22,"Reptilia","Anolis porcatus",0.119,1734,48.14,198496.64,"Island",473.6636423,2712.113,17.6,109164.1276,0.049299644,46.8,1955
+"14","Anolis porcatus_United States",9,"Reptilia","Anolis porcatus",0.29,1734,48.14,198496.64,"Continent",258.7066151,1955.138,17.6,109164.1276,0.092401702,48.125,1936
+"15","Anolis richardii_Trinidad and Tobago",14,"Reptilia","Anolis richardii",-5.536,649,191.55,138461.71,"Island",134.2400758,2145.428,54.9,368.891809,0.029548826,35.4074074074074,NA
+"16","Anolis trinitatis_Trinidad and Tobago",13,"Reptilia","Anolis trinitatis",-30.156,1075,287.79,274176.3,"Island",261.9372181,3430.14,8.4,350.743781,0.024837554,38.25,1808
+"17","Branta sandvicensis_Belgium",80,"Aves","Branta sandvicensis",-0.211,2965,219.79,3636751.52,"Continent",11693.04639,5084.899,2044.1,6798.021537,0.577129433,48.7777777777778,NA
+"18","Branta sandvicensis_United Kingdom",110,"Aves","Branta sandvicensis",-0.266,2965,219.79,3636751.52,"Island",11481.52761,5005.827,2044.1,6798.021537,0.774168359,43.3333333333333,NA
+"19","Carlia ailanpalai_Guam",87,"Reptilia","Carlia ailanpalai",-27.19,600,101.73,1037351.09,"Island",1732.00133,872.027,4,1872.298565,0.252434903,32.25,1963
+"20","Carlia ailanpalai_Northern Mariana Islands",88,"Reptilia","Carlia ailanpalai",-27.111,600,101.73,1037351.09,"Island",1812.095181,1024.09,4,1872.298565,0.260835212,31.8888888888889,1956
+"21","Chloropsis cochinchinensis_Hong Kong",83,"Aves","Chloropsis cochinchinensis",0.289,3293,150.82,827733.64,"Continent",3315.364231,8818.643,24.5,79207.00477,0.721773001,NA,1991
+"22","Corvus moneduloides_New Caledonia",29,"Aves","Corvus moneduloides",0.505,1508,251.76,1266048.99,"Island",66.37489817,3258.823,277.4,16470.82026,0.349615471,20.1538461538462,1981
+"23","Eclectus roratus_Belgium",76,"Aves","Eclectus roratus",-4.628,2805,221.28,815891.73,"Continent",12032.32622,5116.032,480.8,52370.44666,0.576800097,47.3333333333333,NA
+"24","Eclectus roratus_Indonesia",48,"Aves","Eclectus roratus",-0.238,2805,221.28,815891.73,"Island",125.6152257,7252.134,480.8,52370.44666,0.162749505,13.665306122449,1980
+"25","Eclectus roratus_Palau",91,"Aves","Eclectus roratus",-2.346,2805,221.28,815891.73,"Island",831.6521354,3049.081,480.8,52370.44666,0.516362628,19.5714285714286,1919
+"26","Eclectus roratus_United States",77,"Aves","Eclectus roratus",-4.025,2805,221.28,815891.73,"Continent",12942.55603,5795.623,480.8,52370.44666,0.676457177,46.2857142857143,1986
+"27","Eleutherodactylus antillensis_British Virgin Islands",52,"Amphibia","Eleutherodactylus antillensis",0.369,1223,133.51,704723.38,"Island",55.75721877,828.037,3.41,9318.181838,0.11344063,35.5,NA
+"28","Eleutherodactylus antillensis_Virgin Islands",35,"Amphibia","Eleutherodactylus antillensis",0.489,1223,133.51,704723.38,"Island",26.45504008,813.862,3.41,9318.181838,0.075716796,42.2542372881356,1935
+"29","Eleutherodactylus coqui_United States_CA",78,"Amphibia","Eleutherodactylus coqui",-2.972,1223,133.9,704723.38,"Continent",5175.579748,1110.75,14.47,8821.832721,0.108340602,47.6,1972
+"30","Eleutherodactylus coqui_United States_FL",86,"Amphibia","Eleutherodactylus coqui",0.649,1223,133.9,704723.38,"Continent",1575.325503,1996.564,14.47,8821.832721,0.054062818,52,NA
+"31","Eleutherodactylus coqui_United States_HW",41,"Amphibia","Eleutherodactylus coqui",-0.646,1223,133.9,704723.38,"Island",9097.040241,449.159,14.47,8821.832721,0.204771641,28.965,1987
+"32","Eleutherodactylus coqui_Virgin Islands",46,"Amphibia","Eleutherodactylus coqui",0.443,1223,133.9,704723.38,"Island",69.12402693,828.037,14.47,8821.832721,0.193792983,42,1968
+"33","Eleutherodactylus johnstonei_Barbados",99,"Amphibia","Eleutherodactylus johnstonei",0.918,1329,160.49,139077.38,"Island",481.7089227,449.414,4.1,5484.637772,0.500000019,50.6,1879
+"34","Eleutherodactylus johnstonei_Colombia",62,"Amphibia","Eleutherodactylus johnstonei",0.455,1329,160.49,139077.38,"Continent",1546.601519,5247.678,4.1,5484.637772,0.008053239,41.8571428571429,1987
+"35","Eleutherodactylus johnstonei_French Guiana",95,"Amphibia","Eleutherodactylus johnstonei",0.098,1329,160.49,139077.38,"Island",1690.649692,4950.248,4.1,5484.637772,0.011440809,35.8,1919
+"36","Eleutherodactylus johnstonei_Grenada",98,"Amphibia","Eleutherodactylus johnstonei",0.326,1329,160.49,139077.38,"Island",532.7441808,586.642,4.1,5484.637772,0.25230886,29.8,1885
+"37","Eleutherodactylus johnstonei_Guadeloupe",112,"Amphibia","Eleutherodactylus johnstonei",-0.134,1329,160.49,139077.38,"Island",90.377419,563.75,4.1,5484.637772,0.152761906,37,1967
+"38","Eleutherodactylus johnstonei_Jamaica",73,"Amphibia","Eleutherodactylus johnstonei",0.068,1329,160.49,139077.38,"Island",1548.124571,844.611,4.1,5484.637772,0.034205966,36.4166666666667,1890
+"39","Eleutherodactylus johnstonei_Martinique",71,"Amphibia","Eleutherodactylus johnstonei",0.121,1329,160.49,139077.38,"Island",252.8049578,645.132,4.1,5484.637772,0.253393762,39,1965
+"40","Eleutherodactylus johnstonei_Netherlands Antilles",94,"Amphibia","Eleutherodactylus johnstonei",-0.002,1329,160.49,139077.38,"Island",928.2249332,1727.815,4.1,5484.637772,0.500000072,42.2,NA
+"41","Eleutherodactylus johnstonei_Panama",107,"Amphibia","Eleutherodactylus johnstonei",0.327,1329,160.49,139077.38,"Continent",2116.632888,5051.037,4.1,5484.637772,0.026830101,42,1987
+"42","Eleutherodactylus johnstonei_Saint Lucia",97,"Amphibia","Eleutherodactylus johnstonei",0.285,1329,160.49,139077.38,"Island",354.9883643,613.642,4.1,5484.637772,0.264235553,26.8,1995
+"43","Eleutherodactylus johnstonei_Saint Vincent and the Grenadines",59,"Amphibia","Eleutherodactylus johnstonei",0.12,1329,160.49,139077.38,"Island",413.3019566,599.16,4.1,5484.637772,0.24769115,24.4,1969
+"44","Eleutherodactylus johnstonei_Trinidad and Tobago",117,"Amphibia","Eleutherodactylus johnstonei",0.539,1329,160.49,139077.38,"Island",659.4313414,1596.07,4.1,5484.637772,0.050227582,44.3333333333333,1978
+"45","Eleutherodactylus martinicensis_Antigua and Barbuda",116,"Amphibia","Eleutherodactylus martinicensis",0.448,1329,168.64,343845.2,"Island",256.360207,494.44,10.49,4595.873448,0.471528894,34.3333333333333,NA
+"46","Eleutherodactylus martinicensis_Dominica",49,"Amphibia","Eleutherodactylus martinicensis",-0.066,1329,168.64,343845.2,"Island",52.27478976,598.405,10.49,4595.873448,0.190208876,23.45,1992
+"47","Eleutherodactylus planirostris_Guam",96,"Amphibia","Eleutherodactylus planirostris",0.186,1731,46.13,103153.92,"Island",13361.97012,989.473,4.49,75807.83147,0.346142742,42.6,2003
+"48","Eleutherodactylus planirostris_Honduras",69,"Amphibia","Eleutherodactylus planirostris",0.533,1731,46.13,103153.92,"Continent",805.3530403,2981.125,4.49,75807.83147,0.032942902,39.5,NA
+"49","Eleutherodactylus planirostris_Jamaica",65,"Amphibia","Eleutherodactylus planirostris",0.235,1731,46.13,103153.92,"Island",161.2893269,832.196,4.49,75807.83147,0.034165161,29.2,NA
+"50","Eleutherodactylus planirostris_Mexico_VER",47,"Amphibia","Eleutherodactylus planirostris",0.105,1731,46.13,103153.92,"Continent",1331.511302,2459.738,4.49,75807.83147,0.106966827,48.2,NA
+"51","Eleutherodactylus planirostris_Mexico_YUC",45,"Amphibia","Eleutherodactylus planirostris",0.457,1731,46.13,103153.92,"Continent",341.5246162,1420.085,4.49,75807.83147,0.059289239,38.0909090909091,NA
+"52","Eleutherodactylus planirostris_United States",72,"Amphibia","Eleutherodactylus planirostris",0.403,1731,46.13,103153.92,"Continent",86.42259997,2124.489,4.49,75807.83147,0.053465977,37.9190207156309,1863
+"53","Eleutherodactylus planirostris_United States_HW",60,"Amphibia","Eleutherodactylus planirostris",-0.454,1731,46.13,103153.92,"Island",7309.374588,474.664,4.49,75807.83147,0.188602109,34.231884057971,NA
+"54","Foudia madagascariensis_Comoros",19,"Aves","Foudia madagascariensis",-0.027,2773,99.27,414860.26,"Island",401.2224365,2955.916,16.6,593926.4796,0.77936318,25.1785714285714,1864
+"55","Foudia madagascariensis_Mauritius",18,"Aves","Foudia madagascariensis",-0.086,2773,99.27,414860.26,"Island",869.4051162,2061.832,16.6,593926.4796,0.345288322,34.2064516129032,1750
+"56","Foudia madagascariensis_Mayotte",31,"Aves","Foudia madagascariensis",0.513,2773,99.27,414860.26,"Island",299.2933825,2751.405,16.6,593926.4796,0.308855419,21.875,2003
+"57","Foudia madagascariensis_Reunion",55,"Aves","Foudia madagascariensis",-0.374,2773,99.27,414860.26,"Island",678.6090876,2160.971,16.6,593926.4796,0.46931287,28.841095890411,1760
+"58","Foudia madagascariensis_Seychelles",57,"Aves","Foudia madagascariensis",0.016,2773,99.27,414860.26,"Island",359.2143457,2253.783,16.6,593926.4796,0.545935342,NA,1860
+"59","Furcifer oustaleti_United States",11,"Reptilia","Furcifer oustaleti",0.543,2773,99.26,414857.43,"Continent",14263.40992,1966.727,434.3,1188452.801,0.086010196,39.5714285714286,NA
+"60","Furcifer pardalis_Mauritius",51,"Reptilia","Furcifer pardalis",-0.389,1857,135.82,742964.63,"Island",890.4329374,1247.994,268.8,111236.5169,0.090628596,33,NA
+"61","Furcifer pardalis_Reunion",50,"Reptilia","Furcifer pardalis",-1.013,1857,135.82,742964.63,"Island",684.9725277,814.269,268.8,111236.5169,0.232001917,32.6470588235294,NA
+"62","Leiocephalus carinatus_United States",39,"Reptilia","Leiocephalus carinatus",0.486,1733,63.06,82605.04,"Continent",83.9487528,1944.616,71.9,48770.39888,0.076926775,45.8352112676056,1936
+"63","Leiocephalus schreibersii_United States",84,"Reptilia","Leiocephalus schreibersii",0.361,1835,177.58,628733.09,"Continent",963.6238269,1919.75,35.3,12004.60859,0.089452401,52.3333333333333,1978
+"64","Margaroperdix madagarensis_Reunion",64,"Aves","Margaroperdix madagarensis",-0.666,2773,105.25,414860.26,"Island",723.8654204,2160.971,245,546164.1514,NA,24.6136363636364,1770
+"65","Ninox novaeseelandiae_Australia",40,"Aves","Ninox novaeseelandiae",-0.851,NA,NA,NA,"Continent",894.8537294,8012.234,183.4,269580.9982,0.633886949,15.2138936149722,1922
+"66","Osteopilus septentrionalis_Anguilla",114,"Amphibia","Osteopilus septentrionalis",0.32,1731,45.3,103153.92,"Island",1194.484752,449.414,57,118780.6072,0.499999944,38,1983
+"67","Osteopilus septentrionalis_Antigua and Barbuda",26,"Amphibia","Osteopilus septentrionalis",0.357,1731,45.3,103153.92,"Island",1349.706152,494.44,57,118780.6072,0.313811143,38,1994
+"68","Osteopilus septentrionalis_British Virgin Islands",27,"Amphibia","Osteopilus septentrionalis",0.402,1731,45.3,103153.92,"Island",1024.762497,828.037,57,118780.6072,0.219815082,33,1990
+"69","Osteopilus septentrionalis_Cayman Islands",32,"Amphibia","Osteopilus septentrionalis",0.83,1731,45.3,103153.92,"Island",218.2726561,449.414,57,118780.6072,0.312234491,27.8,NA
+"70","Osteopilus septentrionalis_Netherlands Antilles",43,"Amphibia","Osteopilus septentrionalis",0.191,1731,45.3,103153.92,"Island",1062.372534,1095.111,57,118780.6072,0.313811171,40,NA
+"71","Osteopilus septentrionalis_Puerto Rico",63,"Amphibia","Osteopilus septentrionalis",0.428,1731,45.3,103153.92,"Island",763.681994,1018.655,57,118780.6072,0.033530628,47.010752688172,1959
+"72","Osteopilus septentrionalis_Saint Kitts and Nevis",113,"Amphibia","Osteopilus septentrionalis",0.269,1731,45.3,103153.92,"Island",1271.177511,495.756,57,118780.6072,0.326928608,31.5,1995
+"73","Osteopilus septentrionalis_The Bahamas",24,"Amphibia","Osteopilus septentrionalis",0.226,1731,45.3,103153.92,"Island",196.1322219,492.114,57,118780.6072,0.17584824,25.5,1964
+"74","Osteopilus septentrionalis_United States",44,"Amphibia","Osteopilus septentrionalis",0.523,1731,45.3,103153.92,"Continent",162.416851,2081.668,57,118780.6072,0.006007787,39.7125579854208,1801
+"75","Osteopilus septentrionalis_Virgin Islands",28,"Amphibia","Osteopilus septentrionalis",0.489,1731,45.3,103153.92,"Island",996.1355579,814.653,57,118780.6072,0.075716796,39.7857142857143,1974
+"76","Phasianus versicolor_Belgium",4,"Aves","Phasianus versicolor",-0.502,3644,194.26,174128.41,"Continent",8811.867988,5158.405,918.8,290222.5956,0.576176076,41.7045454545455,NA
+"77","Phasianus versicolor_Canada",104,"Aves","Phasianus versicolor",-0.806,3644,194.26,174128.41,"Continent",7051.434455,5312.733,918.8,290222.5956,0.682845198,54.6666666666667,1972
+"78","Phasianus versicolor_United Kingdom",109,"Aves","Phasianus versicolor",-0.574,3644,194.26,174128.41,"Island",8807.125119,5018.764,918.8,290222.5956,0.593153351,28.6666666666667,1750
+"79","Phasianus versicolor_United States",105,"Aves","Phasianus versicolor",-0.804,3644,194.26,174128.41,"Continent",7945.449132,5712.267,918.8,290222.5956,0.67678651,40,1882
+"80","Phelsuma grandis_Mauritius",16,"Reptilia","Phelsuma grandis",-0.526,1857,197.72,798809.1,"Island",874.3745536,1247.994,30.1,9284.81621,0.184107036,37.4444444444444,NA
+"81","Phelsuma grandis_Reunion",61,"Reptilia","Phelsuma grandis",-0.873,1857,197.72,798809.1,"Island",688.19964,814.269,30.1,9284.81621,0.232001926,37.6774193548387,NA
+"82","Phelsuma grandis_United States",1,"Reptilia","Phelsuma grandis",-2.974,1857,197.72,798809.1,"Continent",14461.71999,1704.559,30.1,9284.81621,0.067985834,42.9,NA
+"83","Phelsuma laticauda_Comoros",23,"Reptilia","Phelsuma laticauda",0.198,1859,156.09,391995.29,"Island",398.607558,1331.482,5.8,39735.59585,0.06618767,26.25,2003
+"84","Phelsuma laticauda_United States_HW",58,"Reptilia","Phelsuma laticauda",-2.457,1859,156.09,391995.29,"Island",16741.57843,774.75,5.8,39735.59585,0.268828374,33.2423469387755,1974
+"85","Podarcis pityusensis_Spain",67,"Reptilia","Podarcis pityusensis",-3.509,348,97.95,83956.95,"Continent",104.252653,738.626,12.7,661.0223297,0.251887045,38,1982
+"86","Serinus canaria_Australia",3,"Aves","Serinus canaria",-1.463723621,3470,289.26,96368.76,"Continent",15192.80427,7860.418,24.3,10555.56287,0.246637233,49.7142857142857,1861
+"87","Serinus canaria_Belgium",54,"Aves","Serinus canaria",-1.724243883,3470,289.26,96368.76,"Continent",2507.255416,5155.604,24.3,10555.56287,0.571519309,42.8,1966
+"88","Serinus canaria_Canada",101,"Aves","Serinus canaria",-2.387464488,3470,289.26,96368.76,"Continent",3002.402185,4718.093,24.3,10555.56287,0.686317738,53,NA
+"89","Serinus canaria_England",34,"Aves","Serinus canaria",-1.830324969,3470,289.26,96368.76,"Island",2175.939029,4704.22,24.3,10555.56287,0.770519567,30.3152173913043,2011
+"90","Serinus canaria_Germany",53,"Aves","Serinus canaria",-1.584801568,3470,289.26,96368.76,"Continent",2598.706339,5045.023,24.3,10555.56287,0.687772521,31.9604519774011,NA
+"91","Serinus canaria_Ireland",102,"Aves","Serinus canaria",-1.841180547,3470,289.26,96368.76,"Continent",2257.355168,4068.799,24.3,10555.56287,0.44442954,22.2,NA
+"92","Serinus canaria_Italy",37,"Aves","Serinus canaria",-1.011285156,3470,289.26,96368.76,"Continent",2375.46074,5475.746,24.3,10555.56287,0.714706275,26.4022988505747,1590
+"93","Serinus canaria_Midway Islands",108,"Aves","Serinus canaria",-1.89811339,3470,289.26,96368.76,"Island",11706.43239,1062.928,24.3,10555.56287,0.490621135,NA,NA
+"94","Serinus canaria_Netherlands",2,"Aves","Serinus canaria",-1.917326932,3470,289.26,96368.76,"Continent",2666.711711,5582.384,24.3,10555.56287,0.60504708,22,NA
+"95","Serinus canaria_New Zealand",15,"Aves","Serinus canaria",-1.967603,3470,289.26,96368.76,"Island",17662.52304,4275.153,24.3,10555.56287,0.383109552,34.4285714285714,NA
+"96","Serinus canaria_Poland",36,"Aves","Serinus canaria",-1.86099558,3470,289.26,96368.76,"Continent",3255.970078,5151.847,24.3,10555.56287,0.748746845,26.125,NA
+"97","Serinus canaria_Portugal",10,"Aves","Serinus canaria",0.317596255,3470,289.26,96368.76,"Continent",831.109918,5749.004,24.3,10555.56287,0.752002243,25.452380952381,2003
+"98","Serinus canaria_Spain",33,"Aves","Serinus canaria",-0.176009432,3470,289.26,96368.76,"Continent",961.4091119,5655.691,24.3,10555.56287,0.67236102,26.5515463917526,1988
+"99","Serinus canaria_United States",38,"Aves","Serinus canaria",-0.661645874,3470,289.26,96368.76,"Continent",3327.764248,6005.686,24.3,10555.56287,0.46282927,48.6111111111111,1910
+"100","Sphaerodactylus argus_Cuba",30,"Reptilia","Sphaerodactylus argus",0.505,1732,99.97,82660.34,"Island",216.5705231,2631.517,0.9,33517.26534,0.016414829,35,NA
+"101","Sphaerodactylus argus_Mexico",103,"Reptilia","Sphaerodactylus argus",-0.833,1732,99.97,82660.34,"Continent",1089.018751,3222.776,0.9,33517.26534,0.039610173,37.6666666666667,1974
+"102","Sphaerodactylus elegans_United States",6,"Reptilia","Sphaerodactylus elegans",-0.124,2159,65.49,198496.64,"Continent",158.7515177,1705.728,1.5,120541.2323,0.098359779,38,1945
+"103","Streptopelia bitorquata_Guam",25,"Aves","Streptopelia bitorquata",0.290223,3130,141.97,453268.76,"Island",3457.753885,2596.682,153,187501.1215,0.229826944,42.6052631578947,1771
+"104","Streptopelia bitorquata_Indonesia",118,"Aves","Streptopelia bitorquata",0.7605,3130,141.97,453268.76,"Island",1327.082705,10994.759,153,187501.1215,0.733360739,37,1875
+"105","Streptopelia bitorquata_Northern Mariana Islands",21,"Aves","Streptopelia bitorquata",0.0697,3130,141.97,453268.76,"Island",3565.289729,2375.095,153,187501.1215,0.183591444,35.9117647058824,1750
+"106","Syrmaticus soemmerringii_United States",70,"Aves","Syrmaticus soemmerringii",-1.7122,3644,213.09,173785.49,"Continent",8108.571141,5425.185,1081.7,175126.6244,0.676698616,28.2,1870
+"107","Tadorna variegata_Belgium",8,"Aves","Tadorna variegata",0.1754,3331,232.72,1640316.75,"Continent",17877.52826,5300.211,1541,269037.401,0.576759651,32.7777777777778,NA
+"108","Tadorna variegata_Sweden",5,"Aves","Tadorna variegata",-0.3903,3331,232.72,1640316.75,"Continent",16836.93345,4904.131,1541,269037.401,0.772073913,40,NA
+"109","Taeniopygia guttata_Australia",66,"Aves","Taeniopygia guttata",-1.9597,3368,217.44,449164.06,"Continent",676.1683355,6264.188,12,83934.32159,0.19337399,8.84805852560495,1937
+"110","Tanygnathus lucionensis_Malaysia",42,"Aves","Tanygnathus lucionensis",0.8012,2731,178.08,649870.71,"Island",195.3961072,10690.019,215,292647.8111,0.732810143,35.1610169491525,1961
+"111","Teira dugesii_Portugal",75,"Reptilia","Teira dugesii",-6.705,1600,440.26,374327.66,"Continent",887.4917021,1694.769,12.3,819.6066015,0.150722635,47.12,1992
+"112","Teira dugesii_Portugal_AZ",12,"Reptilia","Teira dugesii",-42.543,1600,440.26,374327.66,"Island",846.1146707,242.774,12.3,819.6066015,1,27.6437346437346,1860
+"113","Turdus plumbeus_Cayman Islands",89,"Aves","Turdus plumbeus",-7.6781,44,4.39,103152.3,"Island",579.2845869,4483.098,75.3,7104.178605,0.541812873,25.8,1977
+"114","Turdus plumbeus_United States",100,"Aves","Turdus plumbeus",-19.9384,44,4.39,103152.3,"Continent",211.7022872,6353.014,75.3,7104.178605,0.677357683,38,2002
+"115","Turdus poliocephalus_Australia",106,"Aves","Turdus poliocephalus",-0.0888,NA,NA,NA,"Continent",1679.529874,1244.024,61.6,248540.5346,0.943996724,14,1925
+"116","Turnix nigricollis_Mauritius",111,"Aves","Turnix nigricollis",-0.1603,2816,100.55,287521.47,"Island",880.485265,2204.652,61.3,596517.8914,0.776277616,18,1669
+"117","Turnix nigricollis_Reunion",68,"Aves","Turnix nigricollis",-0.2937,2816,100.55,287521.47,"Island",692.149455,2160.971,61.3,596517.8914,0.487083404,31.7872340425532,1962
+"118","Vini peruviana_Cook Islands",93,"Aves","Vini peruviana",-0.08,1509,374.53,5432943.24,"Island",889.9830517,840.142,29,1710.928353,0.381786325,18,1919
